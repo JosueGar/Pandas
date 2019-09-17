@@ -1,2 +1,2 @@
 # Pandas
-Pandas Homework
+Python Pandas Data Analysis for Gaming Company
